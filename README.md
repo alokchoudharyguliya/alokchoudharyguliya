@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)]
-(https://holopin.io/@pseudophoenix)
+[![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
