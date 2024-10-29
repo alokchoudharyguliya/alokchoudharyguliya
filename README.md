@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 
-<img width=300px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif"><img width=300px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif"><img width=300px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
+<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif"><img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif"><img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
