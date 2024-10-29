@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 
-![](https://drive.google.com/file/d/1q5_eTaYvCwAJHBd858FAWeA4c5TUHPX_/view?usp=drive_link)
+![Leetcode 100 Days](https://drive.google.com/file/d/1q5_eTaYvCwAJHBd858FAWeA4c5TUHPX_/view?usp=drive_link)
