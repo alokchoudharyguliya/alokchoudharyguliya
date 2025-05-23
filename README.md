@@ -41,10 +41,19 @@
 **Pseudophoenix/Pseudophoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia)<img src="./NUX_Octodex.gif" alt="Octodex" width="270" />
-
-
+  <table>
+    <tr>
+      <!-- GitHub Trophies (Left Side) -->
+      <td align="center" width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia" alt="GitHub Trophies" />
+      </td>
+      
+      <!-- Octodex GIF (Right Side) -->
+      <td align="center" width="50%">
+        <img src="./NUX_Octodex.gif" alt="Octodex" width="270" />
+      </td>
+    </tr>
+  </table>
 </div>
 Here are some ideas to get you started:
 
