@@ -33,7 +33,7 @@
   </a>
   <h3>:</h3>
 <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?&theme=light&perline=8&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter," />
+    <img src="https://skillicons.dev/icons?&theme=light&perline=8&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter" href="https://www.linkedin.com/in/alok-choudhary-9465401ab/"/>
   </a>
 </p>
 
