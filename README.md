@@ -90,7 +90,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=pseudophoenixtl&label=Profile%20views&color=0e75b6&style=flat" alt="pseudophoenixtl" /> 
+  <img src="https://komarev.com/ghpvc/?username=pseudophoenix&label=Profile%20views&color=0e75b6&style=flat" alt="pseudophoenix" /> 
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-success" alt="Open Source Contributor">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
 </p>
