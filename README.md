@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia)<img src="./NUX_Octodex.gif" alt="Octodex" width="200" />
+![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia)<img src="./NUX_Octodex.gif" alt="Octodex" width="400" />
 
 
 </div>
