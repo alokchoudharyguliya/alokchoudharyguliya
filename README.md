@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia&rank=S,AAA)
+![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&rank=S,AAA&margin-w=15&margin-h=15&theme=algolia)
 </div>
 Here are some ideas to get you started:
 
