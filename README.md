@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 🐍 Contribution Snake
 
-![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake.svg)
+![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg)
 
 <!-- For dark mode, or GIF animation: -->
 <!-- ![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/ocean.gif) -->
