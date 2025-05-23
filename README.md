@@ -65,6 +65,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
+
 ![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg)
 </div>
 
