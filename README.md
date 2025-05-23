@@ -23,7 +23,7 @@
     </a>
     <a href="https://github.com/Pseudophoenix"><img src="https://skillicons.dev/icons?&theme=light&i=github"/>
     </a>
-    <h3>:</h3>
+    <h3>Tech Stack:</h3>
     <a href="https://skillicons.dev" align="center">
       <img src="https://skillicons.dev/icons?&theme=light&perline=8&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter" />
     </a>
