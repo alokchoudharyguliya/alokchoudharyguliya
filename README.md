@@ -131,7 +131,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
       <td>
         <b> ⚙️ Backend</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,fastapi" />
+          <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express" />
         </p>
       </td>
     </tr>
@@ -139,13 +139,13 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
       <td>
         <b> 📱 Mobile</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
+          <img src="https://skillicons.dev/icons?i=flutter" />
         </p>
       </td>
       <td>
         <b>🛢️ Databases</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
         </p>
       </td>
     </tr>
