@@ -83,4 +83,7 @@ Here are some ideas to get you started:
 
 ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
 
+![Languages](./metrics.plugin.languages.svg)
+
+
 </div>
