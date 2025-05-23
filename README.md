@@ -113,6 +113,70 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
+  ### <img src="https://skillicons.dev/icons?i=code" width="20"/> Languages
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,dart" />
+  </p>
+
+  <table>
+    <tr>
+      <td>
+        ### 🌐 Web Frontend
+        <p>
+          <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+        </p>
+      </td>
+      <td>
+        ### ⚙️ Backend
+        <p>
+          <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,fastapi" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ### 📱 Mobile
+        <p>
+          <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
+        </p>
+      </td>
+      <td>
+        ### 🛢️ Databases
+        <p>
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  ### ☁️ Cloud & DevOps
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,cloudflare,vercel" />
+  </p>
+
+  <table>
+    <tr>
+      <td>
+        ### 🤖 AI/ML
+        <p>
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,opencv,sklearn" />
+        </p>
+      </td>
+      <td>
+        ### 🛠️ Tools
+        <p>
+          <img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,figma,arduino,latex" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<!-- ## 🛠️ Tech Stack
+
 ### Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,php" />
@@ -151,7 +215,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 ### Tools & Utilities
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,figma,arduino,latex" />
-</div>
+</div> -->
 
 <!-- ### Languages
 <div align="center">
@@ -214,70 +278,6 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-  ### <img src="https://skillicons.dev/icons?i=code" width="20"/> Languages
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,dart" />
-  </p>
-
-  <table>
-    <tr>
-      <td>
-        ### 🌐 Web Frontend
-        <p>
-          <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-        </p>
-      </td>
-      <td>
-        ### ⚙️ Backend
-        <p>
-          <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,fastapi" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        ### 📱 Mobile
-        <p>
-          <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
-        </p>
-      </td>
-      <td>
-        ### 🛢️ Databases
-        <p>
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  ### ☁️ Cloud & DevOps
-  <p>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,cloudflare,vercel" />
-  </p>
-
-  <table>
-    <tr>
-      <td>
-        ### 🤖 AI/ML
-        <p>
-          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,opencv,sklearn" />
-        </p>
-      </td>
-      <td>
-        ### 🛠️ Tools
-        <p>
-          <img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,figma,arduino,latex" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
 </div>
 
 ## 📝 Latest Blog Posts
