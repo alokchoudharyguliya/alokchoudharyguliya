@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 <div>
 <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif"><img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif"><img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
 </div>
+
+
+<!-- For full-year calendar -->
+![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
