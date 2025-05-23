@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 </div> -->
 <div align="center">
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
-</div>
 <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif">
 <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
+<!-- </div> -->
 </div>
 
 
