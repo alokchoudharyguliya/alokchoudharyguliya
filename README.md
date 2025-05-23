@@ -57,6 +57,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### 🐍 Contribution Snake
+
+![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake.svg)
+
+<!-- For dark mode, or GIF animation: -->
+![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/ocean.gif)
+
+
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 <!-- <div style={align:"center"} >
 <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif">
