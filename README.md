@@ -47,10 +47,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenixtl&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=radical" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenixtl&layout=compact&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=radical" />
       </td>
     </tr>
   </table>
