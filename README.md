@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- For full-year calendar -->
 
-![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
+![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)<img src="./NUX_Octodex.gif" alt="Octodex" width="200" />
 
 ![Languages](./metrics.plugin.languages.svg)
 
 <!-- ![Octodex](./NUX_Octodex.gif?width=20) -->
 
-<img src="./NUX_Octodex.gif" alt="Octodex" width="200" />
+
 
 </div>
