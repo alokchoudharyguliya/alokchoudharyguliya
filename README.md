@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?&theme=light&i=cpp,css,dart,html,js,c,bash" />
   </a>
   <h3>:</h3>
-<a href="https://skillicons.dev" align="center">
+<a align="center">
     <img src="https://skillicons.dev/icons?&theme=light&i=linkedin"/>
     <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/"><img src="https://skillicons.dev/icons?&theme=light&i=github"/></a>
   </a>
