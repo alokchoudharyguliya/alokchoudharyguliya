@@ -60,7 +60,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=transparent" />
 </div>
 
 ## 🗓️ Contribution Calendar
@@ -77,7 +77,7 @@
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?color=8be9fd&font=Fira+Code&pause=1000&width=435&lines=Alok+-+a+coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?color=006aff&font=Fira+Code&pause=1000&width=435&lines=Alok+-+a+coder" alt="Typing SVG" />
 </a>
 
 [![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
