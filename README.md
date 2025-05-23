@@ -86,4 +86,7 @@ Here are some ideas to get you started:
 ![Languages](./metrics.plugin.languages.svg)
 
 ![Octodex](./NUX_Octodex.gif?width=20)
+
+<img src="./NUX_Octodex.gif" alt="Octodex" width="200" />
+
 </div>
