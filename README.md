@@ -29,7 +29,7 @@
   <h3>:</h3>
 <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?&theme=light&i=linkedin"/>
-    <a><img src="https://skillicons.dev/icons?&theme=light&i=github"/></a>
+    <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/"><img src="https://skillicons.dev/icons?&theme=light&i=github"/></a>
   </a>
   <h3>:</h3>
 <a href="https://skillicons.dev" align="center">
