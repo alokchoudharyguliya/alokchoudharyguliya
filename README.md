@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <!-- For full-year calendar -->
+
 ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
 
 </div>
