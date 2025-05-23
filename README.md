@@ -22,9 +22,17 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
 <p align="center">
-<h3>Languages and Tools:</h3>
+<h3>Languages:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=git,kubernetes,docker,c,vim,flutter,bash," />
+    <img src="https://skillicons.dev/icons?&theme=light&i=cpp,css,dart,html,js,c,bash" />
+  </a>
+  <h3>:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=linkedin,github" />
+  </a>
+  <h3>:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=git,kubernetes,anaconda,aws,,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter," />
   </a>
 </p>
 
