@@ -60,7 +60,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algoila" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
 
 ## 🗓️ Contribution Calendar
