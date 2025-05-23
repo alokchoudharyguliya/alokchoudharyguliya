@@ -284,16 +284,16 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
       </td>
       <td align="center">
         <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
-        <br>50 Days Streak
+        <!-- <br>50 Days Streak -->
       </td>
       <td align="center">
         <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
-        <br>Pandas Certification
+        <!-- <br>Pandas Certification -->
       </td>
       <td align="center">
         <a href="https://holopin.io/@pseudophoenix">
-          <img width="80px" src="https://holopin.me/pseudophoenix" />
-          <br>Holopin Badges
+          <img height="80px" src="https://holopin.me/pseudophoenix" />
+          <!-- <br>Holopin Badges -->
         </a>
       </td>
     </tr>
