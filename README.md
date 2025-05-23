@@ -22,7 +22,7 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
 <p align="center">
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
