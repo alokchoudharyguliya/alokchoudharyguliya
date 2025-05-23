@@ -203,11 +203,11 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
   <img src="https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg" />
 </div>
 
-## 🗓️ Contribution Calendar
+<!-- ## 🗓️ Contribution Calendar
 <div align="center">
 
   ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
-</div>
+</div> -->
 
 ## 🎖️ Achievements
 <div align="center">
