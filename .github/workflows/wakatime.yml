@@ -4,17 +4,24 @@ on:
     - cron: '0 23 * * *' # Runs daily at 11 PM UTC
   workflow_dispatch:
 
+permissions:
+  contents: write # Needed to update the README
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Required for the action to work properly
+          
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGES: "True"
+          SHOW_LANGUAGE: "True" # Correct parameter name (not SHOW_LANGUAGES)
           SHOW_TIMEZONE: "True"
           SHOW_LOC_CHART: "True"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Explicitly pass the token
