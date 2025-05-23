@@ -317,7 +317,7 @@ RECENT_ACTIVITY:end -->
 ## 📂 Projects
 All of my projects are available at [pseudophoenix.github.io](https://pseudophoenix.github.io)
 
-[![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoeni)
+[![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 
 <!-- ## 📈 WakaTime Stats -->
 <!--START_SECTION:waka-->
