@@ -42,6 +42,7 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
