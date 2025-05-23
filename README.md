@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pseudophoenixtl&label=Profile%20views&color=0e75b6&style=flat" alt="pseudophoenixtl" /> </p>
 
 - 👨‍💻 All of my projects are available at [pseudophoenix.github.io](pseudophoenix.github.io)
-
-- 📫 How to reach me **waynerooney0089@gmail.com**
+- 📫 How to reach me **<waynerooney0089@gmail.com>**
 
 <!-- <h3 align="left"></h3> -->
 <!-- <p align="left"> -->
@@ -13,32 +12,29 @@
 </p> -->
 <!-- <center> -->
 <div align="center">
-<p align="center">
-<h3>Languages:</h3>
-<a align="center">
-    <img src="https://skillicons.dev/icons?&theme=light&i=cpp,css,dart,html,js,c,bash" />
-  </a>
-<h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/"  align="center">
-    <img src="https://skillicons.dev/icons?&theme=light&i=linkedin"/>
-</a>
-<a href="https://github.com/Pseudophoenix"><img src="https://skillicons.dev/icons?&theme=light&i=github"/>
-</a>
-
-  <h3>:</h3>
-<a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?&theme=light&perline=8&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter" />
-  </a>
-</p>
+  <!-- <p align="center"> -->
+    <h3>Languages:</h3>
+    <a align="center">
+      <img src="https://skillicons.dev/icons?&theme=light&i=cpp,css,dart,html,js,c,bash" />
+    </a>
+    <h3>Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/" align="center">
+      <img src="https://skillicons.dev/icons?&theme=light&i=linkedin"/>
+    </a>
+    <a href="https://github.com/Pseudophoenix"><img src="https://skillicons.dev/icons?&theme=light&i=github"/>
+    </a>
+    <h3>:</h3>
+    <a href="https://skillicons.dev" align="center">
+      <img src="https://skillicons.dev/icons?&theme=light&perline=8&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter" />
+    </a>
+  <!-- </p> -->
 </div>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenixtl&show_icons=true&locale=en&layout=compact" alt="pseudophoenixtl" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudophoenixtl&show_icons=true&locale=en" alt="pseudophoenixtl" /></p>
 </center> -->
 
-
 ## Hi there 👋
-
 
 **Pseudophoenix/Pseudophoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,18 +49,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 <!-- <div style={align:"center"} >
 <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif">
 </div> -->
 <div align="center">
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
-<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif">
-<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
-<!-- </div> -->
+  <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif">
+  <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
 </div>
-
 
 <!-- For full-year calendar -->
 <!-- ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg) -->
