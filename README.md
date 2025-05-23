@@ -32,7 +32,7 @@
   </a>
   <h3>:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=git,kubernetes,anaconda,aws,,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter," />
+    <img src="https://skillicons.dev/icons?&theme=light&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter," />
   </a>
 </p>
 
