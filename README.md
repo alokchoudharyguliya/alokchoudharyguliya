@@ -66,7 +66,6 @@
 ## 🗓️ Contribution Calendar
 <div align="center">
 
-![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg)
 ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
 </div>
 
