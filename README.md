@@ -115,7 +115,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,php" />
 </div>
 
 ### Web Development
@@ -125,12 +125,12 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ### Backend & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,express,fastapi,spring" />
+  <img src="https://skillicons.dev/icons?i=django,flask,express" />
 </div>
 
 ### Mobile & Cross-Platform
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </div>
 
 ### Cloud & DevOps
@@ -145,7 +145,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ### Data Science & AI/ML
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </div>
 
 ### Tools & Utilities
