@@ -41,8 +41,7 @@
 **Pseudophoenix/Pseudophoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix)](https://github.com/pseudophoenix/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=pseudophoenix&theme=algolia)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
