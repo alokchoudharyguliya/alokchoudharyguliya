@@ -28,7 +28,8 @@
   </a>
   <h3>:</h3>
 <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?&theme=light&i=linkedin,github" />
+    <img src="https://skillicons.dev/icons?&theme=light&i=linkedin"/>
+    <a><img src="https://skillicons.dev/icons?&theme=light&i=github"/></a>
   </a>
   <h3>:</h3>
 <a href="https://skillicons.dev" align="center">
