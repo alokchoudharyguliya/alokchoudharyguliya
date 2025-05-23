@@ -15,7 +15,7 @@
   <!-- <p align="center"> -->
     <h3>Languages:</h3>
     <a align="center">
-      <img src="https://skillicons.dev/icons?&theme=light&i=cpp,css,dart,html,js,c,bash" />
+      <img src="https://skillicons.dev/icons?&theme=light&i=html,css,js,c,cpp,dart,bash" />
     </a>
     <h3>Connect with me:</h3>
     <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/" align="center">
