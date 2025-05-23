@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia)<img src="./NUX_Octodex.gif" alt="Octodex" width="200" />
 
 
 </div>
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- For full-year calendar -->
 
-![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)<img src="./NUX_Octodex.gif" alt="Octodex" width="200" />
+![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
 
 ![Languages](./metrics.plugin.languages.svg)
 
