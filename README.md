@@ -221,8 +221,8 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 ## 📊 Weekly Coding Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pseudophoenix&theme=github-compact)](https://github.com/Pseudophoenix)
 
-## ▶️ Latest Videos
-<!-- YOUTUBE:START -->
+<!-- ## ▶️ Latest Videos
+YOUTUBE:START
 - [Building a React Hook](https://youtu.be/example1)
 - [Python Tips & Tricks](https://youtu.be/example2)
-<!-- YOUTUBE:END -->
+YOUTUBE:END -->
