@@ -16,11 +16,12 @@
 <a align="center">
     <img src="https://skillicons.dev/icons?&theme=light&i=cpp,css,dart,html,js,c,bash" />
   </a>
-  <h3>Connect with me:</h3>
+<h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/"  align="center">
     <img src="https://skillicons.dev/icons?&theme=light&i=linkedin"/>
-  </a>
-    <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/"><img src="https://skillicons.dev/icons?&theme=light&i=github"/></a>
+</a>
+<a href="https://github.com/Pseudophoenix"><img src="https://skillicons.dev/icons?&theme=light&i=github"/>
+</a>
 
   <h3>:</h3>
 <a href="https://skillicons.dev" align="center">
