@@ -161,7 +161,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
       <td>
 🤖 AI/ML
         <p>
-          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,opencv,sklearn" />
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
         </p>
       </td>
       <td>
