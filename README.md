@@ -281,10 +281,10 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
 </div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- ## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START
 - [How I Optimized My React App Performance](https://example.com)
-- [Docker Best Practices for Development](https://example.com)
+- [Docker Best Practices for Development](https://example.com) -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## 🔥 Recent Activity
