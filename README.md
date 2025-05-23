@@ -63,13 +63,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg" />
-</div>
-
 ## 🗓️ Contribution Calendar
+<div align="center">
+
+![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg)
 ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
+</div>
 
 ## 🎖️ Achievements
 <div align="center">
