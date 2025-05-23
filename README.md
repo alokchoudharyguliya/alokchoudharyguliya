@@ -86,7 +86,7 @@
 All of my projects are available at [pseudophoenix.github.io](https://pseudophoenix.github.io) -->
 
 
-<h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, I'm Alok</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="50" />, I'm Alok</h1>
 <h3 align="center"><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?color=8be9fd&font=Fira+Code&pause=1000&width=535&lines=A+passionate+software+developer+from+India" alt="Typing SVG" />
   <!-- </a>A passionate software developer from India</h3> -->
