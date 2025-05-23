@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?color=8be9fd&font=Fira+Code&pause=1000&width=435&lines=Alok+-+a+coder" alt="Typing SVG" /></a>
 
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
+
+![Stats Image](https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix)
+
 <!-- <div style={align:"center"} >
 <img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif">
 </div> -->
