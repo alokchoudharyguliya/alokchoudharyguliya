@@ -47,15 +47,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=synthwave" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=cobalt" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=synthwave" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=cobalt" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix&theme=synthwave" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix&theme=cobalt" />
 </div>
 
 ## 🏆 GitHub Trophies
