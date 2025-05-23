@@ -180,18 +180,18 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 - [Docker Best Practices for Development](https://example.com)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔥 Recent Activity
-<!--RECENT_ACTIVITY:start-->
+<!-- ## 🔥 Recent Activity
+RECENT_ACTIVITY:start
 1. 🎉 Merged PR #42 in [Pseudophoenix/ProjectX](https://github.com/Pseudophoenix/ProjectX/pull/42)
 2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
 3. 🏆 Earned the GitHub Arctic Code Vault Contributor badge
-<!--RECENT_ACTIVITY:end-->
+RECENT_ACTIVITY:end -->
 
-## 🎯 Goals for 2024
+<!-- ## 🎯 Goals for 2024
 - [x] Contribute to 5+ open source projects
 - [ ] Learn Rust programming
 - [ ] Build a SaaS product
-- [ ] Get AWS Certified
+- [ ] Get AWS Certified -->
 
 ## 💻 Workspace Setup
 <div align="center">
