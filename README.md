@@ -89,7 +89,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 <h1 align="center">Hi 👋, I'm Alok</h1>
 <h3 align="center"><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?color=8be9fd&font=Fira+Code&pause=1000&width=435&lines=A+passionate+software+developer+from+India" alt="Typing SVG" />
-  </a>A passionate software developer from India</h3>
+  <!-- </a>A passionate software developer from India</h3> -->
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=pseudophoenix&label=Profile%20views&color=0e75b6&style=flat" alt="pseudophoenix" /> 
