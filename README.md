@@ -30,15 +30,15 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenixtl&show_icons=true&locale=en&layout=compact" alt="pseudophoenixtl" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenixtl&show_icons=true&locale=en&layout=compact" alt="pseudophoenixtl" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudophoenixtl&show_icons=true&locale=en" alt="pseudophoenixtl" /></p>
-</center>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudophoenixtl&show_icons=true&locale=en" alt="pseudophoenixtl" /></p>
+</center> -->
 
 
 ## Hi there 👋
 
-<!--
+
 **Pseudophoenix/Pseudophoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,13 +51,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
-<div>
-<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif"><img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif"><img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
+<div style={align:"center"} >
+<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif">
+</div>
+<div align="center">
+  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
+</div>
+<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif">
+<img width=80px src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif">
 </div>
 
 
 <!-- For full-year calendar -->
-![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
+<!-- ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg) -->
