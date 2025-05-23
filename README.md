@@ -123,13 +123,13 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
   <table>
     <tr>
       <td>
-        ### 🌐 Web Frontend
+        <b> 🌐 Web Frontend</b>
         <p>
           <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
         </p>
       </td>
       <td>
-        ### ⚙️ Backend
+        <b> ⚙️ Backend</b>
         <p>
           <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,fastapi" />
         </p>
@@ -137,13 +137,13 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
     </tr>
     <tr>
       <td>
-        ### 📱 Mobile
+        <b> 📱 Mobile</b>
         <p>
           <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
         </p>
       </td>
       <td>
-        ### 🛢️ Databases
+        <b>🛢️ Databases</b>
         <p>
           <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
         </p>
@@ -159,13 +159,13 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
   <table>
     <tr>
       <td>
-        ### 🤖 AI/ML
+🤖 AI/ML
         <p>
           <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,opencv,sklearn" />
         </p>
       </td>
       <td>
-        ### 🛠️ Tools
+      🛠️ Tools
         <p>
           <img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,figma,arduino,latex" />
         </p>
