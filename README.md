@@ -109,7 +109,6 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 - 💬 Ask me about full-stack development, DevOps, or tech in general
 - 📫 How to reach me: **waynerooney0089@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠️ Tech Stack
 
