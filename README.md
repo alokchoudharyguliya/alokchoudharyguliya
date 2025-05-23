@@ -163,6 +163,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ## 🗓️ Contribution Calendar
 <div align="center">
+
   ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
 </div>
 
