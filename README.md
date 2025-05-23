@@ -276,10 +276,36 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ## 🎖️ Achievements
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
+        <br>100 Days of Code
+      </td>
+      <td align="center">
+        <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
+        <br>50 Days Streak
+      </td>
+      <td align="center">
+        <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
+        <br>Pandas Certification
+      </td>
+      <td align="center">
+        <a href="https://holopin.io/@pseudophoenix">
+          <img width="80px" src="https://holopin.me/pseudophoenix" />
+          <br>Holopin Badges
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ## 🎖️ Achievements
+<div align="center">
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
   <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
-</div>
+</div> -->
 
 <!-- ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START
