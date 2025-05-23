@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!-- For dark mode, or GIF animation: -->
 <!-- ![github contribution snake](https://github.com/Pseudophoenix/Pseudophoenix/blob/output/ocean.gif) -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alok+-+a+coder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?color=050F2C&font=Fira+Code&pause=1000&width=435&lines=Alok+-+a+coder" alt="Typing SVG" /></a>
 
 [![An image of @pseudophoenix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 <!-- <div style={align:"center"} >
