@@ -247,10 +247,10 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=radical&include_all_commits=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=radical&include_all_commits=true&theme=algolia"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=radical&hide=html,css"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=radical&hide=html,css&theme=algolia"/>
       </td>
     </tr>
   </table>
