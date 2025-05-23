@@ -24,7 +24,7 @@
 <p align="center">
 <h3>Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,flutter" />
+    <img src="https://skillicons.dev/icons?&theme=light&i=git,kubernetes,docker,c,vim,flutter,bash," />
   </a>
 </p>
 
