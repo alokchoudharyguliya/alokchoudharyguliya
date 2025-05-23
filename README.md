@@ -111,7 +111,49 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ## 🛠️ Tech Stack
 
-### Languages
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php" />
+</div>
+
+### Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
+</div>
+
+### Backend & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,express,fastapi,spring" />
+</div>
+
+### Mobile & Cross-Platform
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,reactnative" />
+</div>
+
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,cloudflare,vercel" />
+</div>
+
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</div>
+
+### Data Science & AI/ML
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,opencv,sklearn" />
+</div>
+
+### Tools & Utilities
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,figma,arduino,latex" />
+</div>
+
+<!-- ### Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?&theme=light&i=html,css,js,c,cpp,dart,bash" />
 </div>
@@ -119,7 +161,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 ### Technologies & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?&theme=light&perline=8&i=git,kubernetes,anaconda,aws,django,express,firebase,gcp,githubactions,graphql,docker,vim,flutter" />
-</div>
+</div> -->
 
 ## 🌐 Connect With Me
 <div align="center">
