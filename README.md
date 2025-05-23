@@ -255,7 +255,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix&theme=algolia"/>
 </div>
 
 ## 🏆 GitHub Trophies
