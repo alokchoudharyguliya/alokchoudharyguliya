@@ -158,7 +158,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg" />
 </div>
 
 ## 🗓️ Contribution Calendar
