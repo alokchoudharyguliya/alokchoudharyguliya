@@ -1,11 +1,12 @@
 name: WakaTime Stats Update
 on:
   schedule:
-    - cron: '0 23 * * *' # Runs daily at 11 PM UTC
+    - cron: '0 23 * * *'  # Runs daily at 11 PM UTC
   workflow_dispatch:
 
 permissions:
-  contents: write # Needed to update the README
+  contents: write  # Required to update README
+  pull-requests: write  # Additional permission sometimes needed
 
 jobs:
   update-readme:
@@ -13,15 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Required for the action to work properly
-          
-      - uses: anmol098/waka-readme-stats@master
+          fetch-depth: 0  # Important for proper git history
+
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@v2.0.2  # Using specific version
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True" # Correct parameter name (not SHOW_LANGUAGES)
-          SHOW_TIMEZONE: "True"
-          SHOW_LOC_CHART: "True"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Explicitly pass the token
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_EDITORS: "true"
+          SHOW_LANGUAGE: "true"  # Note: Correct parameter is SHOW_LANGUAGE (singular)
+          SHOW_TIMEZONE: "true"
+          SHOW_LOC_CHART: "true"
