@@ -50,7 +50,7 @@
       
       <!-- Octodex GIF (Right Side) -->
       <td align="center" width="50%">
-        <img src="./NUX_Octodex.gif" alt="Octodex"/>
+        <img src="./NUX_Octodex.gif" alt="Octodex" width="300" />
       </td>
     </tr>
   </table>
