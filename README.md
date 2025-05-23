@@ -217,3 +217,6 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 <!-- Python        ████████████████████░░░░░   75.0% -->
 <!-- JavaScript    ██████░░░░░░░░░░░░░░░░░░░   20.0% -->
 <!-- Other         █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% -->
+
+## 📊 Weekly Coding Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pseudophoenix&theme=github-compact)](https://github.com/Pseudophoenix)
