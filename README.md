@@ -338,9 +338,9 @@ RECENT_ACTIVITY:end -->
 </div> -->
 
 
-## 📂 Projects
+<!-- ## 📂 Projects
 All of my projects are available at [pseudophoenix.github.io](https://pseudophoenix.github.io)
-
+-->
 <!-- [![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix) -->
 
 <!-- ## 📈 WakaTime Stats -->
