@@ -82,8 +82,6 @@
 
 [![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
 
-## 📂 Projects
-All of my projects are available at [pseudophoenix.github.io](https://pseudophoenix.github.io) -->
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" />, I'm Alok</h1>
