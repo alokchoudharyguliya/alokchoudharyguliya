@@ -152,7 +152,7 @@
 
   ### ☁️ Cloud & DevOps
   <p>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,cloudflare,vercel" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,vercel" />
   </p>
 
   <table>
