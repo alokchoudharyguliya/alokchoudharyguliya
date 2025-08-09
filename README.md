@@ -116,7 +116,7 @@
   
   ### <img src="https://skillicons.dev/icons?i=code" width="20"/> Languages
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,dart" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,php,dart" />
   </p>
 
   <table>
