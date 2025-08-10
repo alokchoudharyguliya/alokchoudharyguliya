@@ -108,7 +108,7 @@
 - 📫 How to reach me: **waynerooney0089@gmail.com**
 - 😄 Pronouns: He/Him
 
-## 🛠️ Tech Stack
+<!--## 🛠️ Tech Stack-->
 
 ## 🛠️ Tech Stack
 
