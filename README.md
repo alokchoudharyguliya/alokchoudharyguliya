@@ -104,7 +104,7 @@
 - 🔭 I'm currently working on exciting projects in web and mobile development
 - 🌱 Learning advanced cloud technologies and system design
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about full-stack development, DevOps, or tech in general - [DagsHub](https://dagshub.com/alokchoudhary/ml-Pipeline)
+- 💬 Ask me about full-stack development, DevOps, or tech in general - [DagsHub](https://dagshub.com/alokchoudhary/)
 - 📫 How to reach me: **waynerooney0089@gmail.com**
 - 😄 Pronouns: He/Him
 
