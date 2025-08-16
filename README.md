@@ -328,7 +328,6 @@ RECENT_ACTIVITY:end -->
 <div align="center">
   <img src="https://img.shields.io/badge/Editor-VS_Code-blue?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux" />
-  <img src="https://img.shields.io/badge/Shell-Zsh-blue" />
 </div>
 
 <!-- <div align="center">
