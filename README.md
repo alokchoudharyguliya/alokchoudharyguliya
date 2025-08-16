@@ -166,7 +166,7 @@
       <td>
       🛠️ Tools
         <p>
-          <img src="https://skillicons.dev/icons?i=git,vscode,vim,postman,figma,arduino,latex" />
+          <img src="https://skillicons.dev/icons?i=git,vscode,vim" />
         </p>
       </td>
     </tr>
