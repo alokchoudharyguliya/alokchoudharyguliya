@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=pseudophoenixtl&label=Profile%20views&color=0e75b6&style=flat" alt="pseudophoenixtl" /> 
+  <img src="https://komarev.com/ghpvc/?username=alokchoudharyguliyatl&label=Profile%20views&color=0e75b6&style=flat" alt="alokchoudharyguliyatl" /> 
 </p>
 
 <div align="center">
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/">
     <img src="https://skillicons.dev/icons?&theme=light&i=linkedin" height="40"/>
   </a>
-  <a href="https://github.com/Pseudophoenix">
+  <a href="https://github.com/alokchoudharyguliya">
     <img src="https://skillicons.dev/icons?&theme=light&i=github" height="40"/>
   </a>
 </div>
@@ -47,20 +47,20 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=transparent"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=alokchoudharyguliya&show_icons=true&theme=transparent"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=transparent"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokchoudharyguliya&layout=compact&theme=transparent"/>
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokchoudharyguliya&theme=transparent"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alokchoudharyguliya&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
 
 ## 🗓️ Contribution Calendar
@@ -71,16 +71,16 @@
 
 ## 🎖️ Achievements
 <div align="center">
-  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
-  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
-  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
+  <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-100-new.gif" />
+  <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-50.gif" />
+  <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/Introduction_to_Pandas.gif" />
 </div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?color=006aff&font=Fira+Code&pause=1000&width=435&lines=Alok+-+a+coder" alt="Typing SVG" />
 </a>
 
-[![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix)
+[![@alokchoudharyguliya's Holopin badges](https://holopin.me/alokchoudharyguliya)](https://holopin.io/@alokchoudharyguliya)
 -->
 
 
@@ -90,7 +90,7 @@
   <!-- </a>A passionate software developer from India</h3> -->
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=pseudophoenix&label=Profile%20views&color=0e75b6&style=flat" alt="pseudophoenix" /> 
+  <img src="https://komarev.com/ghpvc/?username=alokchoudharyguliya&label=Profile%20views&color=0e75b6&style=flat" alt="alokchoudharyguliya" /> 
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-success" alt="Open Source Contributor">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
 </p>
@@ -231,7 +231,7 @@
   <a href="https://www.linkedin.com/in/alok-choudhary-9465401ab/">
     <img src="https://skillicons.dev/icons?&theme=light&i=linkedin" height="40"/>
   </a>
-  <a href="https://github.com/Pseudophoenix">
+  <a href="https://github.com/alokchoudharyguliya">
     <img src="https://skillicons.dev/icons?&theme=light&i=github" height="40"/>
   </a>
   <a href="mailto:waynerooney0089@gmail.com">
@@ -245,25 +245,25 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pseudophoenix&show_icons=true&theme=radical&include_all_commits=true&theme=algolia"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=alokchoudharyguliya&show_icons=true&theme=radical&include_all_commits=true&theme=algolia"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudophoenix&layout=compact&theme=radical&hide=html,css&theme=algolia"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokchoudharyguliya&layout=compact&theme=radical&hide=html,css&theme=algolia"/>
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudophoenix&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokchoudharyguliya&theme=algolia"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pseudophoenix&column=3&margin-w=15&margin-h=15&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alokchoudharyguliya&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/Pseudophoenix/Pseudophoenix/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/output/github-snake-dark.svg" />
 </div>
 
 <!-- ## 🗓️ Contribution Calendar
@@ -277,20 +277,20 @@
   <table>
     <tr>
       <td align="center">
-        <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
+        <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-100-new.gif" />
         <br>100 Days of Code
       </td>
       <td align="center">
-        <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
+        <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-50.gif" />
         <!-- <br>50 Days Streak -->
       </td>
       <td align="center">
-        <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
+        <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/Introduction_to_Pandas.gif" />
         <!-- <br>Pandas Certification -->
       </td>
       <td align="center">
-        <a href="https://holopin.io/@pseudophoenix">
-          <img height="80px" src="https://holopin.me/pseudophoenix" />
+        <a href="https://holopin.io/@alokchoudharyguliya">
+          <img height="80px" src="https://holopin.me/alokchoudharyguliya" />
           <!-- <br>Holopin Badges -->
         </a>
       </td>
@@ -300,9 +300,9 @@
 
 <!-- ## 🎖️ Achievements
 <div align="center">
-  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-100-new.gif" />
-  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/2024-50.gif" />
-  <img width="80px" src="https://github.com/Pseudophoenix/Pseudophoenix/blob/main/.github/Introduction_to_Pandas.gif" />
+  <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-100-new.gif" />
+  <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-50.gif" />
+  <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/Introduction_to_Pandas.gif" />
 </div> -->
 
 <!-- ## 📝 Latest Blog Posts
@@ -313,7 +313,7 @@
 
 <!-- ## 🔥 Recent Activity
 RECENT_ACTIVITY:start
-1. 🎉 Merged PR #42 in [Pseudophoenix/ProjectX](https://github.com/Pseudophoenix/ProjectX/pull/42)
+1. 🎉 Merged PR #42 in [alokchoudharyguliya/ProjectX](https://github.com/alokchoudharyguliya/ProjectX/pull/42)
 2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
 3. 🏆 Earned the GitHub Arctic Code Vault Contributor badge
 RECENT_ACTIVITY:end -->
@@ -338,9 +338,9 @@ RECENT_ACTIVITY:end -->
 
 
 <!-- ## 📂 Projects
-All of my projects are available at [pseudophoenix.github.io](https://pseudophoenix.github.io)
+All of my projects are available at [alokchoudharyguliya.github.io](https://alokchoudharyguliya.github.io)
 -->
-<!-- [![@pseudophoenix's Holopin badges](https://holopin.me/pseudophoenix)](https://holopin.io/@pseudophoenix) -->
+<!-- [![@alokchoudharyguliya's Holopin badges](https://holopin.me/alokchoudharyguliya)](https://holopin.io/@alokchoudharyguliya) -->
 
 <!-- ## 📈 WakaTime Stats -->
 <!--START_SECTION:waka-->
@@ -350,7 +350,7 @@ All of my projects are available at [pseudophoenix.github.io](https://pseudophoe
 <!-- Other         █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% -->
 
 ## 📊 Weekly Coding Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pseudophoenix&theme=github-compact)](https://github.com/Pseudophoenix)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alokchoudharyguliya&theme=github-compact)](https://github.com/alokchoudharyguliya)
 
 <!-- ## ▶️ Latest Videos
 YOUTUBE:START
