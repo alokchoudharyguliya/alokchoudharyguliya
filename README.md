@@ -267,11 +267,11 @@
   <img src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/output/github-snake-dark.svg" />
 </div>
 
-</div> -->
 ## 🗓️ Contribution Calendar
 <div align="center">
 
   ![Isometric Contribution Calendar (Full Year)](./metrics.plugin.isocalendar.fullyear.svg)
+</div> -->
 
 ## 🎖️ Achievements
 <div align="center">
