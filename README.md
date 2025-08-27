@@ -258,7 +258,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pseudohphoenix&column=3&margin-w=15&margin-h=15&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alokchoudharyguliya&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
 
 ## 🐍 Contribution Snake
