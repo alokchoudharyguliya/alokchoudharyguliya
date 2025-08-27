@@ -255,18 +255,18 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokchoudharyguliya&theme=algolia"/>
 </div>
-
+<!--
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alokchoudharyguliya&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
-
-<!--
+-->
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/output/github-snake-dark.svg" />
 </div>
 
+<!--
 ## 🗓️ Contribution Calendar
 <div align="center">
 
