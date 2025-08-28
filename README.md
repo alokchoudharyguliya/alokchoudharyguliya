@@ -261,7 +261,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alokchoudharyguliya&column=3&margin-w=15&margin-h=15&theme=algolia" />
 </div>
 -->
-## 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/output/github-snake-dark.svg" />
 </div>
