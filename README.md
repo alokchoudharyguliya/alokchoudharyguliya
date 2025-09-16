@@ -124,7 +124,7 @@
       <td>
         <b> 🌐 Web Frontend</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+          <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
         </p>
       </td>
       <td>
