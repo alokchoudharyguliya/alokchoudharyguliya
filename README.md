@@ -130,7 +130,7 @@
       <td>
         <b> ⚙️ Backend</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express" />
+          <img src="https://skillicons.dev/icons?i=django,flask,express" />
         </p>
       </td>
     </tr>
