@@ -89,11 +89,11 @@
     <img src="https://readme-typing-svg.demolab.com?color=8be9fd&font=Fira+Code&pause=1000&width=535&lines=A+passionate+software+developer+from+India." alt="Typing SVG" />
   <!-- </a>A passionate software developer from India</h3> -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alokchoudharyguliya&label=Profile%20views&color=0e75b6&style=flat" alt="alokchoudharyguliya" /> 
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-success" alt="Open Source Contributor">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
