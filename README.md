@@ -282,16 +282,16 @@
       </td>
       <td align="center">
         <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/2024-50.gif" />
-        <!-- <br>50 Days Streak -->
+        <!-- <br>50 Days Streak 
       </td>
       <td align="center">
         <img width="80px" src="https://github.com/alokchoudharyguliya/alokchoudharyguliya/blob/main/.github/Introduction_to_Pandas.gif" />
-        <!-- <br>Pandas Certification -->
+        <!-- <br>Pandas Certification
       </td>
       <td align="center">
         <a href="https://holopin.io/@alokchoudharyguliya">
           <img height="80px" src="https://holopin.me/alokchoudharyguliya" />
-          <!-- <br>Holopin Badges -->
+          <!-- <br>Holopin Badges
         </a>
       </td>
     </tr>
