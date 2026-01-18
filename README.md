@@ -116,7 +116,7 @@
   
   ### <img src="https://skillicons.dev/icons?i=code" width="20"/> Languages
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,php,dart" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,dart" />
   </p>
 
   <table>
@@ -130,7 +130,7 @@
       <td>
         <b> ⚙️ Backend</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=django,flask,express" />
+          <img src="https://skillicons.dev/icons?i=django,flask" />
         </p>
       </td>
     </tr>
@@ -144,7 +144,7 @@
       <td>
         <b>🛢️ Databases</b>
         <p>
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+          <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
         </p>
       </td>
     </tr>
