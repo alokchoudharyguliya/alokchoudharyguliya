@@ -349,8 +349,6 @@ All of my projects are available at [alokchoudharyguliya.github.io](https://alok
 <!-- JavaScript    ██████░░░░░░░░░░░░░░░░░░░   20.0% -->
 <!-- Other         █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% -->
 
-## 📊 Weekly Coding Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alokchoudharyguliya&theme=github-compact)](https://github.com/alokchoudharyguliya)
 
 <!-- ## ▶️ Latest Videos
 YOUTUBE:START
